@@ -1,0 +1,3 @@
+[submodule "SampleLib"]
+	path = SampleLib
+	url = https://github.com/vksinghknit/SampleLib.git
